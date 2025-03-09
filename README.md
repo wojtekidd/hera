@@ -26,9 +26,8 @@ orchestrate your Argo Workflows using Python!
 
 - See the [examples](./examples/workflows-examples.md) for a collection of Argo workflow construction and submission via Hera!
 
-- [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/argoproj-labs/hera)
-
-- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/argoproj-labs/hera)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/argoproj-labs/hera)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/argoproj-labs/hera)
 
 ## Documentation
 
